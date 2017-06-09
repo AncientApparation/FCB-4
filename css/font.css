@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'BPG DejaVuSans_2';
+  src: url('../fonts/BPG DejaVuSans_2.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'BPGDejaVuSans';
+  src: url('../fonts/BPGDejaVuSans.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DINNextLTPro-Regular';
+  src: url('DINNextLTPro-Regular.woff2') format('woff2'),
+       url('DINNextLTPro-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'DINNextLTPro-Light';
+  src: url('DINNextLTPro-Light.woff2') format('woff2'),
+       url('DINNextLTPro-Light.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'DINNextLTPro-Bold';
+  src: url('DINNextLTPro-Bold.woff2') format('woff2'),
+       url('DINNextLTPro-Bold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'ALKSanet';
+  src: url('ALKSanet.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'alk-sanet';
+  src: url('alk-sanet.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
